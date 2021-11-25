@@ -1,0 +1,5 @@
+### Todo List project
+
+We'll use the term project pretty loosely in this lesson. A project is simply a collection of one or more files used to develop, test, build, and distribute software. The software may be an executable program, a library module, or a combination of programs and library files. The project itself includes the source code (not only Ruby source code, but any language used by the project, such as JavaScript), tests, assets, HTML files, databases, configuration files, and more. While small projects include only a dozen or less files, major projects can include hundreds, even thousands, of files.
+
+To aid developers moving from one project to another, most Ruby-based projects follow standard patterns: certain files and directories must be present, certain types of data are stored in certain locations, and some data must be presented in well-defined formats, etc. The most common standard for Ruby projects is the Rubygems standard. We won't explore the Rubygems standard in depth, but will stick to the standard in our example project. Later, you can read the Rubygems documentation to gain more in-depth knowledge.
